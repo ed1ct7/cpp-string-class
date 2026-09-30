@@ -33,3 +33,12 @@
 .vs
 Lab-Strings/x64
 x64
+
+# Visual Studio build outputs
+Debug/
+Release/
+*.pdb
+*.log
+*.tlog
+*.ipch
+*.ideserial
